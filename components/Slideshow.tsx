@@ -30,7 +30,7 @@ export default function Slideshow() {
       content: {
         title: "The Beginning",
         text: "From the moment you brought me into this world on April 7, 2000, in Rawalpindi...",
-        image: "/mother-baby-1.png",
+        image: "/images/mother-baby-1.png",
         year: "2000",
       },
     },
@@ -40,7 +40,7 @@ export default function Slideshow() {
       content: {
         title: "Early Days",
         text: "You were just 28 when you had me, but even then, you carried the wisdom and courage of a woman who could move mountains.",
-        image: "/mother-baby-2.png",
+        image: "/images/mother-baby-2.png",
         year: "2000",
       },
     },
@@ -50,7 +50,7 @@ export default function Slideshow() {
       content: {
         title: "Our Family",
         text: "Raising Samana, Fatima, and me with unwavering resilience while Abbu served in Northern Waziristan and on UN missions, often far from home.",
-        image: "/mother-family.png",
+        image: "/images/mother-family.png",
         year: "2005",
       },
     },
@@ -59,7 +59,7 @@ export default function Slideshow() {
       type: "quote",
       content: {
         text: "You weren't just a mother; you were our anchor, our protector, and our biggest cheerleader.",
-        background: "/mother-cooking.png",
+        background: "/images/mother-cooking.png",
       },
     },
     {
@@ -68,7 +68,7 @@ export default function Slideshow() {
       content: {
         title: "Growing Together",
         text: "Every moment with you has been a blessing. Your guidance has shaped me into who I am today.",
-        image: "/mother-son-car.png",
+        image: "/images/mother-son-car.png",
         year: "2016",
       },
     },
@@ -78,7 +78,7 @@ export default function Slideshow() {
       content: {
         title: "Life Lessons",
         text: "You turned every challenge into a lesson, every fear into courage, and every ordinary day into a memory filled with warmth.",
-        image: "/mother-son-5.png",
+        image: "/images/mother-son-5.png",
         year: "2015",
       },
     },
@@ -88,7 +88,7 @@ export default function Slideshow() {
       content: {
         title: "Celebrations",
         text: "You've always made every occasion special, bringing joy and laughter to our lives.",
-        image: "/mother-son-event.png",
+        image: "/images/mother-son-event.png",
         year: "2019",
       },
     },
@@ -98,7 +98,7 @@ export default function Slideshow() {
       content: {
         title: "Playful Moments",
         text: "Your playful spirit and sense of humor have taught me to find joy even in difficult times.",
-        image: "/mother-son-4.png",
+        image: "/images/mother-son-4.png",
         year: "2018",
       },
     },
@@ -108,7 +108,7 @@ export default function Slideshow() {
       content: {
         title: "Your Care",
         text: "When you came to Malaysia to take care of me, it showed the depths of your love and sacrifice.",
-        image: "/mother-son-malaysia.png",
+        image: "/images/mother-son-malaysia.png",
         year: "2020",
         location: "Kuala Lumpur, Malaysia",
       },
@@ -119,7 +119,7 @@ export default function Slideshow() {
       content: {
         title: "Golden Moments",
         text: "The warmth of your presence is like the golden sunset we shared in this moment.",
-        image: "/mother-son-garden.png",
+        image: "/images/mother-son-garden.png",
         year: "2022",
       },
     },
@@ -128,7 +128,7 @@ export default function Slideshow() {
       type: "quote",
       content: {
         text: "You are the definition of a brave woman—a warrior in a shalwar kameez, a hero without a cape.",
-        background: "/mother-son-3.png",
+        background: "/images/mother-son-3.png",
       },
     },
     {
@@ -137,7 +137,7 @@ export default function Slideshow() {
       content: {
         title: "Recent Times",
         text: "Every year with you is a blessing. Your love continues to be my greatest strength.",
-        image: "/mother-son-2.png",
+        image: "/images/mother-son-2.png",
         year: "2023",
       },
     },
@@ -169,7 +169,7 @@ export default function Slideshow() {
       content: {
         title: "Happy Mother's Day",
         text: "May Allah bless you with endless happiness, good health, and the same fierce love you've given us all these years.",
-        image: "/mother-son-1.png",
+        image: "/images/mother-son-1.png",
       },
     },
   ]
@@ -341,7 +341,6 @@ export default function Slideshow() {
                     alt="Background"
                     fill
                     className="object-cover opacity-20"
-                    priority
                   />
                   <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/50 to-black/80"></div>
                 </div>

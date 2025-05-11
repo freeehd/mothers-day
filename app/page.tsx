@@ -85,7 +85,7 @@ export default function Home() {
           >
             <div className="w-32 h-32 sm:w-40 sm:h-40 rounded-full overflow-hidden mx-auto border-2 border-pink-500/50 shadow-lg shadow-pink-500/20">
               <ImageFallback
-                src="/mother-son-malaysia.png"
+                src="/images/mother-son-malaysia.png"
                 alt="Sarim and his mother Nuzhat Mehdi"
                 width={160}
                 height={160}
